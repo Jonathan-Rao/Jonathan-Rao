@@ -1,1 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Rao&show_icons=true&theme=radical)](https://github.com/Jonathan-Rao)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Rao&count_private=true&show_icons=true&repo=github-readme-stats&theme=radical)](https://github.com/Jonathan-Rao)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Rao&layout=compact)](https://github.com/Jonathan-Rao)
+
